@@ -29,5 +29,5 @@ Make sure you have [Node.js](https://nodejs.org/) and [npm](https://www.npmjs.co
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/nested-list.git
-   cd nested-list
+   git clone https://github.com/IshkhanDavtyan1995/NestedList.git
+   cd NestedList
